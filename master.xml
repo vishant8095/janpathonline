@@ -5,7 +5,7 @@
 	  <parameter name="os" value="Windows"/>
 	  <parameter name="browser" value="edge"/>
     <classes>
-      <!-- class name="testCases.Tc001Account_reg_page"/>-->
+      <class name="testCases.Tc001Account_reg_page"/>
        <class name="testCases.Tc002_Login_Account"/>
     </classes>
   </test> <!-- Test -->
