@@ -1,0 +1,63 @@
+17:53:34.676[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\JavaCourse\javaprograming\janpathonline\master.xml
+
+17:54:33.644[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\JavaCourse\javaprograming\janpathonline\master.xml
+
+17:56:40.513[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\JavaCourse\javaprograming\janpathonline\master.xml
+
+17:56:51.032[main] INFO  testCases.Tc001Account_reg_page - ***** Starting TC001_AccountRegistrationTest  ****
+17:56:56.546[main] INFO  testCases.Tc001Account_reg_page - ***** Finished TC001_AccountRegistrationTest *****
+19:14:26.588[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\JavaCourse\javaprograming\janpathonline\master.xml
+
+19:14:39.526[main] INFO  testCases.Tc002_Login_Account - ******Tc002_login account started*****
+19:14:52.891[main] INFO  testCases.Tc002_Login_Account - ***** Finished TC002_login account *****
+19:15:53.063[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\JavaCourse\javaprograming\janpathonline\master.xml
+
+19:16:03.706[main] INFO  testCases.Tc002_Login_Account - ******Tc002_login account started*****
+19:16:16.888[main] INFO  testCases.Tc002_Login_Account - ***** Finished TC002_login account *****
+19:17:45.746[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\JavaCourse\javaprograming\janpathonline\master.xml
+
+19:17:56.459[main] INFO  testCases.Tc002_Login_Account - ******Tc002_login account started*****
+19:18:09.670[main] INFO  testCases.Tc002_Login_Account - ***** Finished TC002_login account *****
+19:19:43.283[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\JavaCourse\javaprograming\janpathonline\master.xml
+
+19:19:54.417[main] INFO  testCases.Tc002_Login_Account - ******Tc002_login account started*****
+19:20:10.925[main] INFO  testCases.Tc002_Login_Account - ***** Finished TC002_login account *****
+19:20:35.822[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\JavaCourse\javaprograming\janpathonline\master.xml
+
+19:20:48.321[main] INFO  testCases.Tc002_Login_Account - ******Tc002_login account started*****
+19:21:00.651[main] INFO  testCases.Tc002_Login_Account - ***** Finished TC002_login account *****
+19:21:39.625[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\JavaCourse\javaprograming\janpathonline\master.xml
+
+19:21:49.718[main] INFO  testCases.Tc002_Login_Account - ******Tc002_login account started*****
+19:22:00.108[main] INFO  testCases.Tc002_Login_Account - ***** Finished TC002_login account *****
+08:29:39.833[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\JavaCourse\javaprograming\janpathonline\master.xml
+
+08:29:52.386[main] INFO  testCases.Tc002_Login_Account - ******Tc002_login account started*****
+08:30:09.321[main] INFO  testCases.Tc002_Login_Account - ***** Finished TC002_login account *****
+08:32:04.111[main] INFO  testCases.Tc002_Login_Account - ******Tc002_login account started*****
+08:32:15.270[main] INFO  testCases.Tc002_Login_Account - ***** Finished TC002_login account *****
+08:32:52.880[main] INFO  testCases.Tc002_Login_Account - ******Tc002_login account started*****
+08:33:09.694[main] INFO  testCases.Tc002_Login_Account - ***** Finished TC002_login account *****
+08:37:33.673[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\JavaCourse\javaprograming\janpathonline\master.xml
+
+08:37:44.637[main] INFO  testCases.Tc002_Login_Account - ******Tc002_login account started*****
+08:37:54.255[main] INFO  testCases.Tc002_Login_Account - ***** Finished TC002_login account *****
+08:38:25.618[main] INFO  testCases.Tc002_Login_Account - ******Tc002_login account started*****
+08:38:27.276[main] INFO  testCases.Tc002_Login_Account - ***** Finished TC002_login account *****
+08:39:04.753[main] INFO  testCases.Tc002_Login_Account - ******Tc002_login account started*****
+08:39:21.948[main] INFO  testCases.Tc002_Login_Account - ***** Finished TC002_login account *****
+08:39:59.083[main] INFO  testCases.Tc002_Login_Account - ******Tc002_login account started*****
+08:40:16.494[main] INFO  testCases.Tc002_Login_Account - ***** Finished TC002_login account *****
+08:42:07.014[main] INFO  testCases.Tc002_Login_Account - ******Tc002_login account started*****
+08:42:22.957[main] INFO  testCases.Tc002_Login_Account - ***** Finished TC002_login account *****
